@@ -7,7 +7,7 @@
 - 👷 I like to **appropriate and involve myself** a lot on the projects I work on, so that developing them and seeing the result is always a **trhilling and rewarding experience**.
 - 👂 I love the fact that the web development community is so **helpful** and open to everyone. I **enjoy learning** from more experienced developers and **take satisfaction in helping** colleagues in need.
 
-#### My projects
+#### Some of my projects
 - ⚽ [Pronogeeks](https://github.com/ymenuet/pronogeeks) is a web application developped with Node.js and React.js. It allows its users to make bets on French football league's results and compete against one another. Some small details are still in development but the app will soon be launched. Stay tuned!
 - 😷 [KLEEN](https://github.com/ymenuet/KLEEN) is a web application developped using Node.js along with Express.js, Handlebars and Mongoose. Its users can rate the experience they had in any public place, in regards to the respect of the sanitary measures they observed there (use of facemasks, respects of physical distancing, soap available...).
 - 🎮 [COVIDeojuego](https://github.com/ymenuet/COVIDeojuego) is a videogame developped using pure Javascript. The goal is to save the world from COVID, playing as one of our world's leader.
