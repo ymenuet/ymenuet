@@ -13,9 +13,12 @@
 - 🎮 [COVIDeojuego](https://github.com/ymenuet/COVIDeojuego) is a videogame developped using pure Javascript. The goal is to save the world from COVID, playing as one of our world's leader.
 
 #### My goals
-- 📚 My philosophy is to **keep learning, always**. The web development world requires its participants to do so because of the continuously evolving technologies, and I enjoy it. After consolidating my knowledge on React.js, I plan on learning React Native and apply it on the Pronogeeks app, for it to be available as a mobile app as well. I am also open to learning new technologies and languages.
+- 📚 My philosophy is to **keep learning, always**. The web development world requires its participants to do so because of the continuously evolving technologies, and I enjoy it. After consolidating my knowledge on React.js, I plan on learning React Native and apply it on the Pronogeeks app, for it to be available as a mobile app as well. I am also open to **learning new technologies and languages**.
+- 🥅 I aspire to work on projects and products that are **relevant and innovating**, to be a part of something **big and meaningful**. I currently am open to job opportunities.
 
-
+#### Contact me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yvan-menuet/)
+- ✉️ [Email](yvan.menuet@gmail.com)
 
 <!--
 **ymenuet/ymenuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
