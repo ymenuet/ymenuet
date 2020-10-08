@@ -8,11 +8,11 @@
 - 👂 I love the fact that the web development community is so **helpful** and open to everyone. I **enjoy learning** from more experienced developers and **take satisfaction in helping** colleagues in need.
 
 #### Some of my projects
-- ⚽ [Pronogeeks](https://github.com/ymenuet/pronogeeks) is a web application developped with Node.js and React.js. It allows its users to make bets on French football league's results and compete against one another. Some small details are still in development but the app will soon be launched. Stay tuned!<br>
+- ⚽ [Pronogeeks](https://github.com/ymenuet/pronogeeks) is a web application developed with Node.js and React.js. It allows its users to make bets on French football league's results and compete against one another. Some small details are still in development but the app will soon be launched. Stay tuned!<br>
 🏆 This project was awarded the **best project prize** by the jury at the final presentation of my Ironhack web development bootcamp.
-- 😷 [KLEEN](https://github.com/ymenuet/KLEEN) is a web application developped using Node.js along with Express.js, Handlebars and Mongoose. Its users can rate the experience they had in any public place, in regards to the respect of the sanitary measures they observed there (use of facemasks, respects of physical distancing, soap available...).<br>
+- 😷 [KLEEN](https://github.com/ymenuet/KLEEN) is a web application developed using Node.js along with Express.js, Handlebars and Mongoose. Its users can rate the experience they had in any public place, in regards to the respect of the sanitary measures they observed there (use of facemasks, respects of physical distancing, soap available...).<br>
 🏆 This project was awarded the **best project prize** by the jury at the 2nd project presentations of my Ironhack web development bootcamp.
-- 🎮 [COVIDeojuego](https://github.com/ymenuet/COVIDeojuego) is a videogame developped using pure Javascript. The goal is to save the world from COVID, playing as one of our world's leader.
+- 🎮 [COVIDeojuego](https://github.com/ymenuet/COVIDeojuego) is a videogame developed using pure Javascript. The goal is to save the world from COVID, playing as one of our world's leader.
 
 #### My goals
 - 📚 My philosophy is to **keep learning, always**. The web development world requires its participants to do so because of the continuously evolving technologies, and I enjoy it. After consolidating my knowledge on React.js, I plan on learning React Native and apply it on the Pronogeeks app, for it to be available as a mobile app as well. I am also open to **learning new technologies and languages**.
