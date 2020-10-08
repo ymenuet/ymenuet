@@ -4,7 +4,7 @@
 - ☝️ I am a **full-stack web developer** from France, living in Mexico City.
 - 💪 I have experience working with the **MERN stack**, as you can see in my pinned repos, but I also know a bit of PHP and SQL.
 - ✌️ After several project management experiences as an engineer in the software industry, I decided to learn coding and that was one of the best decisions of my life. I have always been very **rigorous and logical** in my way of living and web development perfectly matches these characteristics. They allow me to produce **clean and reusable code** for applications to work smoothly.
-- 👷 I like to **appropriate and involve myself** a lot on the projects I work on, so that developing them and seeing the result is always a **trhilling and rewarding experience**.
+- 👷 I like to **appropriate and involve myself** a lot in the projects I work on, so that developing them and seeing the result is always a **trhilling and rewarding experience**.
 - 👂 I love the fact that the web development community is so **helpful** and open to everyone. I **enjoy learning** from more experienced developers and **take satisfaction in helping** colleagues in need.
 
 #### Some of my projects
