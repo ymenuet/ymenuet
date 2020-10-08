@@ -18,7 +18,7 @@
 
 #### Contact me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yvan-menuet/)
-- ✉️ [Email](yvan.menuet@gmail.com)
+- ✉️ [Email](mailto:yvan.menuet@gmail.com)
 
 <!--
 **ymenuet/ymenuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
