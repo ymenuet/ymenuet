@@ -16,7 +16,7 @@
 
 #### My goals
 - 📚 My philosophy is to **keep learning, always**. The web development world requires its participants to do so because of the continuously evolving technologies, and I enjoy it. After consolidating my knowledge on React.js, I plan on learning React Native and apply it on the Pronogeeks app, for it to be available as a mobile app as well. I am also open to **learning new technologies and languages**.
-- 🥅 I aspire to work on projects and products that are **relevant and innovating**, to be a part of something **big and meaningful**. I currently am open to job opportunities.
+- 🥅 I aspire to work on projects and products that are **relevant and innovative**, to be a part of something **big and meaningful**. I currently am open to job opportunities.
 
 #### Contact me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yvan-menuet/)
